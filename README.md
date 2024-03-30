@@ -18,6 +18,10 @@ This bot will give you notification every transaction NFT on your Solana network
    <br>=> pip install requirements.txt
 4. Edit configuration on main.py
    <br>**note : token api telegram bot, token api helius, database configuration, domain website**
+5. Running set_webhook.py for configure your bot to receive all commands from webhook
+   <br>=> python set_webhook.py or python3 set_webhook.py
+6. Running main program.
+   <br>=>python main.py or python3 main.py
 
 ### How to Use
 1. After complete all installation u type on your telegram bot.
